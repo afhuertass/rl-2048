@@ -1,0 +1,6 @@
+README.md
+game2048.egg-info/PKG-INFO
+game2048.egg-info/SOURCES.txt
+game2048.egg-info/dependency_links.txt
+game2048.egg-info/requires.txt
+game2048.egg-info/top_level.txt
